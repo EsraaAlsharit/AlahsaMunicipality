@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: 'Cairo', sans-serif;
+    background-image: url(../img/hero-bg.png);
+    background-size: cover;
+	width :100% ;
+
+}
+
+.formF {
+position: absolute;
+    width: 280px;
+    height: 450px;
+    top: 25%;
+  transform: translate(-50%, -50%);
+    margin-top: 150px;
+    right: 50%;
+    left: 50%;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    box-sizing: border-box;
+
+    background: rgba(0, 0, 0, .5);
+
+}
+
+.imgLogoFb {
+    width: 240px;
+    height: 40px;
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+}
+
+.formF h1 {
+    padding: 3px;
+    color: forestgreen;
+}
+
+#pC {
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-bottom: -5px;
+}
+
+.hr hr,
+p {
+    display: inline-block;
+}
+
+#hr1 {
+    margin-top: 30px;
+    width: 38%;
+    height: 2px;
+    margin-left: 20px;
+    background-color: #fff;
+    float: left;
+
+}
+
+#hr2 {
+    margin-top: 30px;
+    width: 38%;
+    height: 2px;
+    margin-left: 20px;
+    background-color: #fff;
+    float: left;
+
+}
+
+.imgLogoFb img {
+    float: left;
+    margin-left: 35px;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+
+}
+
+.imgLogoFb p {
+    color: blue;
+    float: left;
+    padding: 10px;
+    font-family: serif;
+    font-weight: bold;
+    margin-left: -5px;
+
+}
+
+form img {
+    width: 15px;
+    height: 15px;
+    margin-top: 5px;
+}
+
+form input {
+    width: 73%;
+    height: 35px;
+    text-align: center;
+    
+    border-radius: 0 10px 10px 0px;
+    border: none;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+  
+
+}
+
+.inUser1 {
+    display: inline-block;
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: -5px;
+}
+
+.divImg {
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 10px 0px 0px 10px;
+    padding: 5px;
+
+}
+
+#div2 {
+    margin-top: 10px;
+}
+
+form {
+
+    margin-top: 60px;
+}
+
+#btnLogin {
+    width: 86%;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: forestgreen;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#btnLogin:hover {
+    background-color: crimson;
+
+}
+
+.supDiv {
+    margin-top: 10px;
+    display: inline-block;
+    float: left;
+    margin-left: 25px;
+    font-size: 13px;
+
+}
+
+#fotgt {
+    color: #fff;
+    text-decoration: none;
+    margin-top: 10px;
+    position: relative;
+    text-align: center;    
+    /*float: right;
+    margin-right: 23px;*/
+
+}
+
+#fotgt a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+
+}
+
